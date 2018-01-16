@@ -1,0 +1,27 @@
+body {
+	padding-top: 70px;
+}
+/*jumbotron*/
+.jumbotron {
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+/*Navbar, changes font color inside the navbar, used console to find code 
+for example: ; */
+.navbar-inverse {
+	 background: #2c3e50;
+      color: white;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+footer {
+	background: rgb(150, 50, 50)
+}
+i {
+	color: rgb(255, 0, 0);
+}
